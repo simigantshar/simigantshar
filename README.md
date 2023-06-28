@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @simigantshar
+- 🌱 I’m currently learning Fullstack web develpoment
+- 📫 How to reach me: sgantshar@gmail.com
